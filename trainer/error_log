@@ -1,0 +1,20 @@
+[14-Jan-2020 09:49:51 America/New_York] PHP Notice:  Uninitialized string offset: 9 in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 58
+[14-Jan-2020 09:49:51 America/New_York] PHP Notice:  Uninitialized string offset: 8 in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 60
+[14-Jan-2020 09:49:51 America/New_York] PHP Notice:  Uninitialized string offset: 0 in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 61
+[14-Jan-2020 09:49:51 America/New_York] PHP Notice:  Uninitialized string offset: 1 in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 62
+[14-Jan-2020 09:49:51 America/New_York] PHP Notice:  Uninitialized string offset: 2 in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 63
+[14-Jan-2020 09:49:51 America/New_York] PHP Notice:  Uninitialized string offset: 3 in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 64
+[14-Jan-2020 09:49:51 America/New_York] PHP Notice:  Uninitialized string offset: 4 in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 65
+[14-Jan-2020 09:49:51 America/New_York] PHP Notice:  Uninitialized string offset: 5 in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 66
+[14-Jan-2020 09:49:51 America/New_York] PHP Notice:  Uninitialized string offset: 6 in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 67
+[14-Jan-2020 09:50:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method test::searchTestForEdit() in /home/kgisuydd/public_html/nmits/trainer/edit-test.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 27
+[14-Jan-2020 09:50:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method test::searchTestForEdit() in /home/kgisuydd/public_html/nmits/trainer/edit-test.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/kgisuydd/public_html/nmits/trainer/edit-test.php on line 27
+[17-Jan-2020 05:30:30 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainer/contents-view.php on line 25
+[20-Jan-2020 05:33:46 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainer/add-module.php on line 15
+[20-Jan-2020 05:56:44 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainer/contents-view.php on line 19

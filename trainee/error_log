@@ -1,0 +1,81 @@
+[13-Apr-2019 12:38:22 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[13-Apr-2019 12:41:42 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[13-Apr-2019 12:42:40 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[13-Apr-2019 14:45:56 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[15-May-2019 21:17:12 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[18-Sep-2019 17:00:12 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[20-Sep-2019 07:18:10 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[20-Sep-2019 10:47:44 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[20-Sep-2019 10:49:10 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[27-Sep-2019 04:28:42 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 0 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 2 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 3 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 4 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 5 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 6 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 7 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 8 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:29:35 America/New_York] PHP Notice:  Undefined offset: 9 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 88
+[27-Sep-2019 04:30:28 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[27-Sep-2019 06:46:12 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[06-Oct-2019 19:52:47 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[06-Oct-2019 20:40:59 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[06-Oct-2019 20:51:56 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[06-Oct-2019 20:51:56 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:304) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 151
+[06-Oct-2019 20:53:29 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[06-Oct-2019 20:53:29 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:304) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 151
+[06-Oct-2019 20:56:52 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[06-Oct-2019 20:56:52 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:304) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 151
+[07-Oct-2019 04:50:24 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or heredoc end (T_END_HEREDOC) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/kgisuydd/public_html/nmits/trainee/testexpiry.php on line 35
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 0 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 2 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 3 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 4 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 5 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 6 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 7 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 8 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[18-Oct-2019 03:23:50 America/New_York] PHP Notice:  Undefined offset: 9 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[21-Oct-2019 14:28:24 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or heredoc end (T_END_HEREDOC) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/kgisuydd/public_html/nmits/trainee/testexpiry.php on line 35
+[21-Oct-2019 14:33:29 America/New_York] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or heredoc end (T_END_HEREDOC) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/kgisuydd/public_html/nmits/trainee/testexpiry.php on line 35
+[21-Oct-2019 14:33:38 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 49
+[21-Oct-2019 14:33:57 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 49
+[21-Oct-2019 14:36:10 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[21-Oct-2019 14:36:10 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:304) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 151
+[23-Oct-2019 02:22:02 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[23-Oct-2019 02:22:52 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[23-Oct-2019 07:52:39 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[23-Oct-2019 07:52:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:306) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 152
+[23-Oct-2019 07:53:03 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[23-Oct-2019 07:53:03 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:306) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 152
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 0 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 1 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 2 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 3 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 4 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 5 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 6 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 7 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 8 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[23-Oct-2019 08:00:30 America/New_York] PHP Notice:  Undefined offset: 9 in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 89
+[24-Nov-2019 04:39:06 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[24-Nov-2019 04:39:06 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:306) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 152
+[24-Nov-2019 13:12:44 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[15-Jan-2020 06:24:12 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[15-Jan-2020 06:24:12 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:306) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 152
+[15-Jan-2020 06:35:09 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[15-Jan-2020 06:35:09 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:306) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 152
+[20-Jan-2020 04:58:54 America/New_York] PHP Warning:  file_get_contents(../module-content/1.txt): failed to open stream: No such file or directory in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 33
+[20-Jan-2020 06:34:16 America/New_York] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 75
+[20-Jan-2020 11:19:36 America/New_York] PHP Notice:  Undefined index: surname in /home/kgisuydd/public_html/nmits/trainee/trainee-main-page.php on line 23
+[21-Jan-2020 12:13:02 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[21-Jan-2020 12:13:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:317) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 152
+[21-Jan-2020 12:19:21 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[21-Jan-2020 12:19:21 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:317) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 152
+[24-Jan-2020 11:54:39 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[24-Jan-2020 11:54:39 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:317) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 152
+[25-Jan-2020 06:19:02 America/New_York] PHP Notice:  Undefined variable: current_moduleno in /home/kgisuydd/public_html/nmits/trainee/testing.php on line 41
+[25-Jan-2020 06:19:02 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kgisuydd/public_html/nmits/classes/interface.php:317) in /home/kgisuydd/public_html/nmits/classes/examiner.php on line 152

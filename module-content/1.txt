@@ -1,0 +1,61 @@
+<strong>introduction</strong>
+a system of equations (linear) is a group of (linear) equations with various unknown factors. generally speaking, the unknown factors appear in various equations.
+solving a system consists in finding the value for the unknown factors in a way that verifies all the equations that make up the system.
+
+if there is a single solution (one value for each unknown factor) we will say that the system is consistent independent system (cis).
+
+if there are various solutions (the system has infinitely many solutions), we say that the system is a consistent dependent system (cds). .
+
+if there is no solution, and this will happen if there are two or more equations that can't be verified at the same time, we say it's an inconsistent system (is). for example, the following system of equations:
+
+2x + y = 2
+2x + y = 0
+       y = 0
+
+is inconsistent because of we obtain the solution x = 0 from the second equation and, from the third, x = 1.
+
+in this section we are going to solve systems using the gaussian elimination method, which consists in simply doing elemental operations in row or column of the augmented matrix to obtain its echelon form or its reduced echelon form (gauss-jordan).
+
+<strong><u>example 1:</u></strong>
+
+ 5x + 2y = 3
+-3x + 3y = 15
+
+the augmented matrix of the system is:
+
+5:::::::2  | 3
+-3::::::3  | 15
+
+of the same dimension as the system (2x3). the vertical line that separates the matrix coefficients from the vector of the independent terms.
+
+we perform elemental operations in the rows to obtain the reduced row echelon form:
+we multiply the first row by 1/5 and the second by 1/3
+
+1:::::::2/5  | 3/5
+-1::::::1     |5
+
+we add the second row with the first:
+
+1::::::::2/5   |  3/5
+0::::::::7/5   |28/5
+
+we multiply the second row by 5/7:
+
+1::::::::2/5    |  3/5
+0::::::::1       |  4
+
+we add the first row with the second one multiplied by -2/5:
+
+1:::::::0  |  -1
+0:::::::1  |  4
+
+this last equivalent matrix is in the reduced row echelon form and it allows us to quickly see the rank of the coefficient matrix and the augmented one.
+we calculate the ranks:
+
+x:::::y
+1:::::0  |  -1
+0:::::1  |  4
+
+the matrix we have obtained represents the system which is the solution to the initial system:
+x  = -1
+y = 4
